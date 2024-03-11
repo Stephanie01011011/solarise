@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/solarise/static/css/main.6f1ff076.css",
+    "main.js": "/solarise/static/js/main.0d75fabc.js",
+    "static/media/pexels-scott-webb-430207.jpg": "/solarise/static/media/pexels-scott-webb-430207.3cdc20f7bb47a40d70b7.jpg",
+    "static/media/SolaRise-removebg-preview.png": "/solarise/static/media/SolaRise-removebg-preview.f3ecb30b3980bb59dbf6.png",
+    "static/media/solariseLogo__1_-removebg-preview.png": "/solarise/static/media/solariseLogo__1_-removebg-preview.f820c0c8b8aebddbd82d.png",
+    "static/media/socialSolarise1.png": "/solarise/static/media/socialSolarise1.ec8038ce7431d491ab67.png",
+    "index.html": "/solarise/index.html",
+    "main.6f1ff076.css.map": "/solarise/static/css/main.6f1ff076.css.map",
+    "main.0d75fabc.js.map": "/solarise/static/js/main.0d75fabc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1ff076.css",
+    "static/js/main.0d75fabc.js"
+  ]
+}
