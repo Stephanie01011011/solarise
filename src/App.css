@@ -1,0 +1,173 @@
+.App {
+  text-align: center;
+  background-color: #9db3da;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 0 50px;
+  
+}
+.navitems{
+  display: flex;
+  width: 50vw;
+  justify-content: space-evenly;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.logo{
+  width: 160px;
+  height: 160px;
+  background-image: url(../public/solariseLogo__1_-removebg-preview.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.heroimg{
+  background-image: url(../public/pexels-scott-webb-430207.jpg);
+  width: 90%;
+  margin: auto;
+  height: 500px;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+}
+hr{
+  width: 90%;
+  height: 4px;
+  background-color: white;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.largeText h1{
+  font-size: 220px;
+  letter-spacing: 65px;
+  margin: auto;
+  color: white;
+  
+}
+.largeText{
+  width: 90%;
+  margin: auto;
+}
+.info{
+  display: flex;
+  margin: auto;
+  width: 90%;
+  margin-top: 150px;
+ 
+}
+.right{
+  width: 50%;
+  
+}
+.left{
+  width: 50%;
+  text-align: left;
+}
+.left h2{
+  font-size: 64px;
+  color: white;
+  text-align: left;
+}
+.left p{
+  font-size: 20px;
+  
+  margin: auto;
+  line-height: 40px;
+  text-align: left;
+}
+.left button{
+  background-color: black;
+  color: white;
+  border-style: none;
+  height: 60px;
+  width: 180px;
+  margin-top: 50px;
+  
+}
+.img{
+  width: 600px;
+  height: 600px;
+  background-image: url(./SolaRise-removebg-preview.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  
+}
+.pricing h2{
+  font-size: 64px;
+  text-align: left;
+  
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.pricing{
+  width: 90%;
+  margin: auto;
+  margin-bottom: 100px;
+}
+.pricingcontainer{
+  background-color: white;
+  padding: 30px 0 30px 0;
+}
+.contact{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.contactright h2{
+  text-align: left;
+  color: white;
+  font-size: 64px;
+}
+.contactright p{
+  text-align: left;
+  width: 85%;
+}
+.contactleft{
+  width: 50%;
+  height: 400px;
+  background-image: url(../public/socialSolarise1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 80%;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+.icon{
+  color: white;
+  
+}
+.social{
+  display: flex;
+  width: 75%;
+  justify-content: space-between;
+  margin-top: 60px;
+  
+}
+.appicon{
+  margin-right: 10px;
+}
+.card-body{
+  height: 300px;
+}
+
+
+
+
